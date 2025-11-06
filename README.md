@@ -122,11 +122,3 @@ function filterMenu(category) {
 * Menü verilerini dış JSON dosyasından çekme
 
 ---
-
-
-JavaScript Proje Örneği — Patika.dev
-💬 Mentor destekli örnek çalışma
-
----
-
-> 💡 *Bu proje, JavaScript dizileriyle DOM üzerinde dinamik içerik üretmeyi öğrenmek isteyen öğrenciler için hazırlanmıştır.*
